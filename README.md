@@ -67,26 +67,28 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 
 ### PROGRAM FOR UPCOUNTER
-![image](https://github.com/Thamizhjo/Exp-7-Synchornous-counters-/assets/123891476/87da7100-9136-462d-908b-0a07bb34c96b)
+![Screenshot 2024-01-02 105102](https://github.com/tharunkumaran2006/Exp-7-Synchornous-counters-/assets/151625188/30270c77-6a11-4ddd-a71b-81f84c6aa083)
 
 ### PROGRAM FOR DOWNCOUNTER
 ![image](https://github.com/tharunkumaran2006/Exp-7-Synchornous-counters-/assets/151625188/e368f2bd-98a2-4d7d-b554-baf8218ca6fd)
 
 ### RTL LOGIC UP COUNTER
-![image](https://github.com/Thamizhjo/Exp-7-Synchornous-counters-/assets/123891476/09f535b0-b007-45bd-a855-0f20b362ba4e)
+![Screenshot 2024-01-02 105145](https://github.com/tharunkumaran2006/Exp-7-Synchornous-counters-/assets/151625188/07750252-0b25-4bf3-a3a2-7b925ba270f5)
+
 
 ### RTL LOGIC DOWN COUNTER
 ![Screenshot 2024-01-02 104954](https://github.com/tharunkumaran2006/Exp-7-Synchornous-counters-/assets/151625188/04ae0a16-16f6-4306-8af6-7841b953359a)
 
 ### TIMING DIGRAMS FOR UP COUNTER 
-![image](https://github.com/Thamizhjo/Exp-7-Synchornous-counters-/assets/123891476/2c6dc5c9-670d-4856-b9e8-a481fd2252f0)
+![Screenshot 2024-01-02 105302](https://github.com/tharunkumaran2006/Exp-7-Synchornous-counters-/assets/151625188/a61d9087-71e2-452a-b43b-7c5eb26bdab2)
+
 
 ### TIMING DIAGRAMS FOR DOWNCOUNTER
 ![Screenshot 2024-01-02 104909](https://github.com/tharunkumaran2006/Exp-7-Synchornous-counters-/assets/151625188/121b531b-4216-4892-9bc9-b69b51e5a226)
 
 ### TRUTH TABLE FOR UPCOUNTER 
 
-![image](https://github.com/Thamizhjo/Exp-7-Synchornous-counters-/assets/123891476/666d6f4d-8a69-4f54-aba6-894caf2060a3)
+![Screenshot 2024-01-02 105313](https://github.com/tharunkumaran2006/Exp-7-Synchornous-counters-/assets/151625188/604d7ebd-6dc6-435d-bd8b-01b044a8642e)
 
 ### TRUTH TABLE FOR DOWNCOUNTER
 ![Screenshot 2024-01-02 104839](https://github.com/tharunkumaran2006/Exp-7-Synchornous-counters-/assets/151625188/21a56c9f-af7f-4130-939d-424845fe0302)
